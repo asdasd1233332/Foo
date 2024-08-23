@@ -63,8 +63,7 @@
         "skin_4-000015.safetensors": "https://huggingface.co/asgsfsdd/skin_4-000015.safetensors/resolve/main/skin_4-000015.safetensors",
         "finenude_v0_2a.safetensors": "https://civitai.com/api/download/models/127928?type=Model&format=SafeTensor",
         "nudify_xl.safetensors": "https://civitai.com/api/download/models/140157?type=Model&format=SafeTensor",
-        "SOAP_LoRA.safetensors": "https://civitai.com/api/download/models/144929?type=Model&format=SafeTensor",
-        "style_lora_r51_update_out.safetensors": "https://civitai.com/api/download/models/536459?type=Model&format=SafeTensor"
+        "SOAP_LoRA.safetensors": "https://civitai.com/api/download/models/144929?type=Model&format=SafeTensor"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
