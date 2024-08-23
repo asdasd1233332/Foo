@@ -47,7 +47,7 @@
         "realismEngineSDXL_v30VAE.safetensors": "https://huggingface.co/asgsfsdd/realismEngineSDXL/resolve/main/realismEngineSDXL_v30VAE.safetensors"
     },
     "embeddings_downloads": {},
-     "lora_downloads": {
+    "lora_downloads": {
     "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
     "Film_Grain_style.safetensors": "https://huggingface.co/asgsfsdd/FilmGrainstyle.safetensors/resolve/main/Film%20Grain%20style.safetensors",
     "detailed_hands-000002.safetensors": "https://huggingface.co/asgsfsdd/4/resolve/main/detailed_hands-000002.safetensors",
