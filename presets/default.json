@@ -45,7 +45,11 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "sdxxxl_v30.safetensors": "https://civitai.com/api/download/models/329420?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "sdxxxl_v30.safetensors": "https://civitai.com/api/download/models/329420?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "jibMixRealisticXL_v140CrystalClarity.safetensors": "https://civitai.com/api/download/models/672019?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "talmendoxlSDXL_v11Beta.safetensors": "https://civitai.com/api/download/models/131960?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "realvisxlV40_v40Bakedvae.safetensors.safetensors": "https://civitai.com/api/download/models/344487?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        
     },
     "embeddings_downloads": {},
     "lora_downloads": {
@@ -57,7 +61,11 @@
         "hand_4.safetensors": "https://huggingface.co/asgsfsdd/hand4.safetensors/resolve/main/hand%204.safetensors",
         "Realistic_SkyClouds_v2-000006.safetensors": "https://huggingface.co/asgsfsdd/Realistic_SkyClouds_v2-000006.safetensors/resolve/main/Realistic_SkyClouds_v2-000006.safetensors",
         "skin_4-000015.safetensors": "https://huggingface.co/asgsfsdd/skin_4-000015.safetensors/resolve/main/skin_4-000015.safetensors",
-        "skin_texture_style_v4.safetensors": "https://huggingface.co/asgsfsdd/skintexturestylev4/resolve/main/skin%20texture%20style%20v4.safetensors"
+        "finenude_v0_2a.safetensors": "https://civitai.com/api/download/models/127928?type=Model&format=SafeTensor",
+        "nudify_xl.safetensors": "https://civitai.com/api/download/models/140157?type=Model&format=SafeTensor",
+        "SOAP_LoRA.safetensors": "https://civitai.com/api/download/models/144929?type=Model&format=SafeTensor",
+        "iphone_mirror_selfie_v01b.safetensors": "https://civitai.com/api/download/models/288679?type=Model&format=SafeTensor",
+        "style_lora_r51_update_out.safetensors": "https://civitai.com/api/download/models/536459?type=Model&format=SafeTensor"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
