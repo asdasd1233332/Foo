@@ -44,11 +44,18 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "realisticStockPhoto_v20.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v20.safetensors"
+        "realismEngineSDXL_v30VAE.safetensors": "https://huggingface.co/asgsfsdd/realismEngineSDXL/resolve/main/realismEngineSDXL_v30VAE.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors"
-    },
+    lora_downloads = {
+    "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
+    "Film_Grain_style.safetensors": "https://huggingface.co/asgsfsdd/FilmGrainstyle.safetensors/resolve/main/Film%20Grain%20style.safetensors",
+    "detailed_hands-000002.safetensors": "https://huggingface.co/asgsfsdd/4/resolve/main/detailed_hands-000002.safetensors",
+    "Olivia_Tate.safetensors": "https://huggingface.co/asgsfsdd/Olivia_/resolve/main/Olivia_Tate.safetensors",
+    "hand_4.safetensors": "https://huggingface.co/asgsfsdd/hand4.safetensors/resolve/main/hand%204.safetensors",
+    "Realistic_SkyClouds_v2-000006.safetensors": "https://huggingface.co/asgsfsdd/Realistic_SkyClouds_v2-000006.safetensors/resolve/main/Realistic_SkyClouds_v2-000006.safetensors",
+    "skin_4-000015.safetensors": "https://huggingface.co/asgsfsdd/skin_4-000015.safetensors/resolve/main/skin_4-000015.safetensors",
+    "skin_texture_style_v4.safetensors": "https://huggingface.co/asgsfsdd/skintexturestylev4/resolve/main/skin%20texture%20style%20v4.safetensors"
+}
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }
